@@ -3,7 +3,8 @@
     {
      "export":
         {
-         "format":"json"
+         "format":"json",
+         "target":"."
         }
     },
  "height":37,
@@ -8981,7 +8982,7 @@
         {
          "columns":5,
          "firstgid":12330,
-         "image":"..\/..\/..\/Desktop\/geekettes.png",
+         "image":"..\/tiles\/geekettes.png",
          "imageheight":96,
          "imagewidth":160,
          "margin":0,
